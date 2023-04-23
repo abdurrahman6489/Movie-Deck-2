@@ -8,5 +8,5 @@ User can
 4. Go to the Favorites to see its Favorite Selected Movies
 5. Search for a particular movie and sort the movies according to Release Date and Vote Count
 
-Here is a glance of the project
+#### Here is a glance of the project
 ![moviedeck](https://user-images.githubusercontent.com/120268868/233845631-fa36e276-5e53-425d-9203-799f472ee59e.JPG)
