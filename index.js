@@ -43,7 +43,7 @@ class Movie {
 const fetchData = async () => {
   favGrid = document.getElementById("favorite-grid");
 
-  favMovies = JSON.parse(localStorage.getItem("favMovies")) ?? [];
+  favMovies = JSON.parse(localStorage.getItem("favMovies") || "[]");
 
   reRenderCardGrid(favMovies, favGrid);
 
